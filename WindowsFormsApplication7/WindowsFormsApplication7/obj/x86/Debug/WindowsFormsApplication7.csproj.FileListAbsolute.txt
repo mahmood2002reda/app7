@@ -1,0 +1,18 @@
+c:\users\mass\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\mass\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\mass\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\mass\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.frmRunTask.resources
+c:\users\mass\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\mass\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\mass\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+c:\users\mass\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+M:\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+M:\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+M:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+M:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.frmRunTask.resources
+M:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+M:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.GenerateResource.cache
+M:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.CoreCompileInputs.cache
+M:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+M:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+M:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.csproj.AssemblyReference.cache
